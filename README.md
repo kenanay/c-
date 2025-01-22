@@ -118,3 +118,38 @@ Here's a brief overview of each module:
     * Uniform Initialization
     * std::thread
     * async/await
+
+   Here are the descriptions for each main category in your C++ curriculum:
+
+1. **Fundamentals**
+The foundational building blocks of C++ programming, covering basic syntax, data structures, and core concepts necessary for writing simple programs. This section introduces the essential elements needed to start programming in C++.
+
+2. **Control Flow**
+Mechanisms for controlling program execution flow, including decision-making structures and various types of loops. These constructs allow programs to make decisions and repeat actions based on conditions.
+
+3. **Functions**
+Building blocks for modular programming that enable code reuse and organization. This section covers different ways to create and use functions, including modern features like lambda expressions.
+
+4. **Object-Oriented Programming**
+Core principles and implementation of object-oriented programming in C++, including the creation and management of classes, inheritance hierarchies, and polymorphic behavior.
+
+5. **Memory Management**
+Techniques and concepts for managing program memory effectively, including manual and automatic memory management, understanding memory allocation, and modern memory management practices.
+
+6. **Templates**
+Generic programming features that allow writing code that works with multiple data types. Templates provide type-safe generic programming capabilities and are fundamental to modern C++ programming.
+
+7. **STL (Standard Template Library)**
+A powerful collection of template classes and functions that provide general-purpose classes and functions with templates. The STL provides containers, algorithms, and iterators that form the backbone of many C++ applications.
+
+8. **Exception Handling**
+Mechanisms for handling and managing runtime errors in a structured way. This section covers how to implement robust error handling in C++ programs.
+
+9. **File Operations & Streams**
+Input/output operations for handling file operations and data streams, including reading from and writing to files, and managing different types of data streams.
+
+10. **Advanced Features**
+More sophisticated language features that enable powerful programming techniques, including operator overloading, friend functions, and move semantics.
+
+11. **Modern C++ Features**
+Features introduced in C++11 and later versions that modernize the language and provide new capabilities for better performance, safety, and expressiveness. These features represent the current best practices in C++ programming.
